@@ -1,4 +1,2 @@
 # isaac
  facebook
-
- my pages
